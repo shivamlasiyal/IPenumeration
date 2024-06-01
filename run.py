@@ -1,5 +1,5 @@
 import subprocess
-
+#this is trial commine
 hostname =input("enter the IP :") 
 
 halfurl = ""# Website url from where you get the api
